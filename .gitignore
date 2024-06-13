@@ -1,0 +1,4 @@
+# Ignore environment variables file
+.env
+# Ignore specific database file
+my_base.db
